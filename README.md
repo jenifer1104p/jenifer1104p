@@ -1,170 +1,108 @@
-# 👋 Hi, I'm Jenifer P!
+# Jenifer P
+### Software Developer | Java Full Stack Developer | AI & Generative AI
 
-### Software Developer | Java Full Stack | AI & Generative AI
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+%7C+Python;Exploring+Generative+AI+%26+LLMs;Building+Real-World+Applications" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Software_Developer-00D9FF?style=for-the-badge&logo=devdotto&logoColor=black" />
-  <img src="https://img.shields.io/badge/Chennai-India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</p>
+Chennai, Tamil Nadu, India  
+[Email](mailto:jenifer04p@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jenifer04p) | [GitHub](https://github.com/jenifer1104p)
 
 ---
 
-## 🚀 About Me
+## PROFESSIONAL SUMMARY
 
-I'm a Software Developer with hands-on experience in full-stack application development using Java, Spring Boot, React.js, Flask and SQL.
+Aspiring Software Developer with hands-on experience in full-stack application development, backend development, REST API integration, and relational database management. Skilled in Java, Spring Boot, Python, JavaScript, React.js, SQL, and Flask. Experienced in developing academic and practical projects involving web applications, database-driven systems, blockchain technology, and AI-powered solutions. Interested in building reliable, scalable, and user-focused software applications.
 
-I enjoy developing practical applications, building RESTful APIs, integrating databases and exploring AI-powered solutions.
+## TECHNICAL SKILLS
 
-- 💻 Interested in Java Full Stack Development and AI Engineering.
-- 🎓 B.Tech in Information Technology.
-- 👩‍💻 Former Full Stack Developer Intern at MK Trainings, Chennai.
-- 🤖 Exploring Generative AI, LLMs, RAG and Prompt Engineering.
-- 🔧 Experienced in frontend-backend integration and REST API development.
-- 🎯 Open to Software Developer and Java Full Stack opportunities.
+| Category | Technologies |
+|---|---|
+| Programming Languages | Java, Python, JavaScript, SQL |
+| Frontend Development | HTML5, CSS3, React.js, Bootstrap |
+| Backend Development | Java, Spring Boot, Flask, REST APIs |
+| Databases | MySQL, PostgreSQL, MongoDB |
+| Core Concepts | Object-Oriented Programming, Data Structures, CRUD Operations, Database Connectivity |
+| AI & Generative AI | LLMs, Retrieval-Augmented Generation (RAG), Prompt Engineering |
+| Development Tools | Git, GitHub, Maven, Postman, VS Code |
 
----
+## FEATURED PROJECTS
 
-## 🛠️ Technical Skills
+### 1. Blockchain-Based Secure eVoting System with Facial Recognition
+**Final-Year Academic Project**
 
-**Programming Languages**
+**Technologies:** Java, Flask, PostgreSQL, Ethereum, Solidity, Ganache
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,sql" />
-</p>
+- Developed a secure electronic voting application incorporating facial recognition for voter authentication.
+- Implemented backend functionality for voter registration, authentication, and election management.
+- Integrated Ethereum smart contracts to support tamper-resistant vote storage.
+- Worked on integrating application components, database operations, and blockchain functionality.
 
-**Frontend Development**
+**Repository:** [Add actual blockchain repository URL]
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
-</p>
+### 2. MK Training Center – Backend
+**Technologies:** Java
 
-**Backend Development**
+Backend component of an educational platform.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,flask,maven" />
-</p>
+[View Source Code](https://github.com/jenifer1104p/mk-training-center-backend)
 
-**Databases**
+### 3. MK Training Center – Frontend
+**Technologies:** HTML
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+Frontend repository for the MK Training educational platform.
 
-**Tools & Technologies**
+[View Source Code](https://github.com/jenifer1104p/mk-training-center-frontend)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-</p>
+### 4. Audit Log Dashboard
+**Technologies:** JavaScript
 
-**AI & Other Technologies**
+JavaScript-based dashboard project.
 
-- Artificial Intelligence and Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
-- Facial Recognition
-- Ethereum and Solidity
+[View Source Code](https://github.com/jenifer1104p/Audit-Log-Dashboard)
 
----
+### 5. GenAI Career Platform – Frontend
+**Technologies:** JavaScript, React.js
 
-## 💡 Featured Projects
+Frontend for a career guidance platform incorporating AI-oriented career features.
 
-### 🔐 1. Blockchain-Based Secure eVoting System with Facial Recognition
+[View Source Code](https://github.com/jenifer1104p/GenAI-Frontend)
 
-**Tech Stack:** Java, Flask, PostgreSQL, Ethereum, Solidity, Ganache
+### 6. JDBC Project
+**Technologies:** Java, JDBC
 
-- Developed a secure electronic voting platform with facial authentication.
-- Built backend services for voter registration and election management.
-- Implemented Solidity smart contracts for tamper-resistant vote storage.
-- Integrated frontend, backend, database and blockchain components.
+Java project demonstrating JDBC-based database connectivity.
 
-### 🎓 2. MK Training Educational Platform
+[View Source Code](https://github.com/jenifer1104p/JDBC_Project)
 
-**Tech Stack:** Java, Spring Boot, React.js, MySQL
+### 7. NexAdmin – User Management System
+**Technologies:** PHP, MongoDB, Bootstrap 5, JavaScript
 
-- Developed a full-stack educational platform.
-- Designed RESTful APIs for authentication and course management.
-- Implemented student enrollment and CRUD operations.
-- Integrated frontend components with backend services.
+User management system developed using web technologies and MongoDB.
 
-### 🤖 3. GenAI Career Platform
+[View Source Code](https://github.com/jenifer1104p/NexAdmin)
 
-**Tech Stack:** React.js, Flask, PostgreSQL
+## PROFESSIONAL EXPERIENCE
 
-- Developed a career platform featuring job search and ATS resume analysis.
-- Built reusable and responsive React components.
-- Developed Flask REST APIs.
-- Integrated PostgreSQL with frontend and backend services.
+**Full Stack Developer Intern | MK Trainings, Chennai**  
+*July 2025 – August 2025*
 
----
+- Developed full-stack applications using Java, Spring Boot, React.js, and MySQL.
+- Implemented and integrated RESTful APIs for application functionality.
+- Worked on frontend-backend integration and database operations.
+- Performed API testing using Postman and supported application development activities.
 
-## 💼 Internship Experience
+## EDUCATION
 
-**Full Stack Developer Intern | MK Trainings**
-
-📍 Chennai, Tamil Nadu | July 2025 – August 2025
-
-- Developed applications using Java, Spring Boot, React.js and MySQL.
-- Built RESTful APIs for user and course management.
-- Integrated frontend components with backend services.
-- Tested application functionality and collaborated with the development team.
-
----
-
-## 🎓 Education
-
-**Bachelor of Technology – Information Technology**
-
-Alpha College of Engineering, Chennai
-
+**Bachelor of Technology – Information Technology**  
+Alpha College of Engineering, Chennai  
 2022 – 2026 | CGPA: 8.3/10
 
----
+## CERTIFICATIONS
 
-## 📜 Certifications
-
-- AI-Based Java Full Stack Development – SLA Institute (2026)
+- AI-Based Java Full Stack Development – SLA Institute, Chennai (2026)
 - Java with Spring Boot – TNSDC, Naan Mudhalvan Scheme (2025)
 - Prompt Engineering for Everyone – IBM Skills Network (2026)
-- Business English Certificate – Cambridge English (2023)
+- Business English Certificate (BEC) Preliminary – Cambridge English (2023)
 
----
+## CAREER INTERESTS
 
-## 📊 GitHub Statistics
+Software Developer | Java Developer | Java Full Stack Developer | Python Developer | AI Application Developer
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jenifer1104p&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenifer1104p&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jenifer1104p&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/jenifer1104p">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/jenifer04p">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jenifer04p@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  ✨ Building | Learning | Growing ✨
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:06B6D4&height=100&section=footer" />
-</p>
+**Preferred Job Locations:** Chennai | Kochi | Thiruvananthapuram
