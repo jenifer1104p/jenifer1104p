@@ -34,7 +34,7 @@ Aspiring Software Developer with hands-on experience in full-stack application d
 - Integrated Ethereum smart contracts to support tamper-resistant vote storage.
 - Worked on integrating application components, database operations, and blockchain functionality.
 
-**Repository:** [Add actual blockchain repository URL]
+[View Source Code](https://github.com/jenifer1104p/mk-training-center-backend)
 
 ### 2. MK Training Center – Backend
 **Technologies:** Java
