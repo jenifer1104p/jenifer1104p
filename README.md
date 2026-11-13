@@ -1,14 +1,15 @@
 # Jenifer P
-### Software Developer | Java Full Stack Developer | AI & Generative AI
+### Software Developer | Java Full Stack | AI & Generative AI
 
-Chennai, Tamil Nadu, India  
+Chennai, Tamil Nadu, India
+
 [Email](mailto:jenifer04p@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jenifer04p) | [GitHub](https://github.com/jenifer1104p)
 
 ---
 
 ## PROFESSIONAL SUMMARY
 
-Aspiring Software Developer with hands-on experience in full-stack application development, backend development, REST API integration, and relational database management. Skilled in Java, Spring Boot, Python, JavaScript, React.js, SQL, and Flask. Experienced in developing academic and practical projects involving web applications, database-driven systems, blockchain technology, and AI-powered solutions. Interested in building reliable, scalable, and user-focused software applications.
+Software Developer with hands-on experience in full-stack application development, Java backend development, REST API integration, and database management. Skilled in Java, Spring Boot, React.js, Python, Flask, JavaScript, and SQL. Experienced in building AI-powered applications using locally hosted Large Language Models, developing interactive dashboards, and integrating blockchain technology into secure applications. Strong interest in developing practical, reliable, and scalable software solutions.
 
 ## TECHNICAL SKILLS
 
@@ -16,67 +17,99 @@ Aspiring Software Developer with hands-on experience in full-stack application d
 |---|---|
 | Programming Languages | Java, Python, JavaScript, SQL |
 | Frontend Development | HTML5, CSS3, React.js, Bootstrap |
-| Backend Development | Java, Spring Boot, Flask, REST APIs |
+| Backend Development | Spring Boot, Flask, Node.js, Express.js, REST APIs |
 | Databases | MySQL, PostgreSQL, MongoDB |
-| Core Concepts | Object-Oriented Programming, Data Structures, CRUD Operations, Database Connectivity |
-| AI & Generative AI | LLMs, Retrieval-Augmented Generation (RAG), Prompt Engineering |
-| Development Tools | Git, GitHub, Maven, Postman, VS Code |
+| AI & Generative AI | Ollama, Qwen2.5:3B, LLMs, RAG, Prompt Engineering |
+| Blockchain | Ethereum, Solidity, Ganache |
+| Core Concepts | Object-Oriented Programming, Data Structures, CRUD Operations, JDBC |
+| Tools | Git, GitHub, Maven, Postman, VS Code |
 
 ## FEATURED PROJECTS
 
-### 1. Blockchain-Based Secure eVoting System with Facial Recognition
-**Final-Year Academic Project**
+### 1. Intervexa AI – Intelligent Interview Studio
 
-**Technologies:** Java, Flask, PostgreSQL, Ethereum, Solidity, Ganache
+**Technologies:** Java, Spring Boot, React.js, Ollama, Qwen2.5:3B, REST APIs
 
-- Developed a secure electronic voting application incorporating facial recognition for voter authentication.
-- Implemented backend functionality for voter registration, authentication, and election management.
-- Integrated Ethereum smart contracts to support tamper-resistant vote storage.
-- Worked on integrating application components, database operations, and blockchain functionality.
+- Developed an AI-powered interview preparation platform that generates technical interview questions based on selected technologies and difficulty levels.
+- Integrated a locally hosted Large Language Model using Ollama to generate interview questions, expected answers, and relevant follow-up questions.
+- Implemented Spring Boot backend services to manage interview-related requests and AI integration.
+- Deployed the frontend on Netlify and backend on Render.
 
-[View Source Code](https://github.com/jenifer1104p/mk-training-center-backend)
+**Live Demo:** [Intervexa AI](https://intervexa-ai.netlify.app/)  
+**Backend:** [Render Deployment](https://intervexa-ai-9m54.onrender.com)  
+**GitHub:** [Intervexa AI Repository](https://github.com/jenifer1104p/Intervexa-AI)
 
-### 2. MK Training Center – Backend
-**Technologies:** Java
+### 2. Audit Log Dashboard
 
-Backend component of an educational platform.
+**Technologies:** React.js, Vite, Node.js, Express.js, MongoDB, Mongoose, Recharts
 
-[View Source Code](https://github.com/jenifer1104p/mk-training-center-backend)
+- Developed a full-stack dashboard for uploading, managing, and analyzing audit log records.
+- Implemented CSV file upload, search, filtering, sorting, and pagination for efficient log management.
+- Integrated REST APIs with MongoDB for storing and retrieving audit log data.
+- Created interactive analytics and data visualizations to present audit log insights.
 
-### 3. MK Training Center – Frontend
+**GitHub:** [Audit Log Dashboard](https://github.com/jenifer1104p/Audit-Log-Dashboard)  
+**Live Demo:** [Audit Log Dashboard](https://audit-log-dashboard-jenifer.netlify.app/)
+
+### 3. Blockchain-Based Secure eVoting System with Facial Recognition
+
+**Final-Year Academic Project | December 2025 – April 2026**
+
+**Technologies:** Java, Python (Flask), PostgreSQL, Ethereum, Solidity, Ganache
+
+- Developed a blockchain-based electronic voting system with facial recognition for voter authentication.
+- Implemented backend services using Flask and PostgreSQL for voter registration, authentication, and election management.
+- Developed Solidity smart contracts to securely record votes on the Ethereum blockchain.
+- Integrated the voting workflow with blockchain technology to provide tamper-resistant vote storage and improved transparency.
+
+### 4. GenAI Career Platform
+
+**Technologies:** React.js, Python (Flask), PostgreSQL, REST APIs
+
+- Developed a career-focused web platform providing job search, ATS-based resume analysis, hackathon information, and project showcases.
+- Built backend REST APIs using Flask to support platform functionality and frontend integration.
+- Integrated PostgreSQL for managing application data.
+- Designed a user-friendly interface to help users explore career opportunities and showcase their projects.
+
+**GitHub:** [GenAI Career Platform – Frontend](https://github.com/jenifer1104p/GenAI-Frontend)
+
+### 5. MK Training Center – Backend
+
+**Technologies:** Java, Spring Boot, MySQL, REST APIs
+
+- Developed backend functionality for an educational platform.
+- Worked on REST API development and database integration.
+- Implemented application operations for course management and student-related functionality.
+
+**GitHub:** [Backend Repository](https://github.com/jenifer1104p/mk-training-center-backend)
+
+### 6. MK Training Center – Frontend
+
 **Technologies:** HTML
 
-Frontend repository for the MK Training educational platform.
+- Developed the frontend component of the MK Training educational platform.
+- Organized application content and user-facing interface elements.
 
-[View Source Code](https://github.com/jenifer1104p/mk-training-center-frontend)
+**GitHub:** [Frontend Repository](https://github.com/jenifer1104p/mk-training-center-frontend)
 
-### 4. Audit Log Dashboard
-**Technologies:** JavaScript
+### 7. JDBC Project
 
-JavaScript-based dashboard project.
-
-[View Source Code](https://github.com/jenifer1104p/Audit-Log-Dashboard)
-
-### 5. GenAI Career Platform – Frontend
-**Technologies:** JavaScript, React.js
-
-Frontend for a career guidance platform incorporating AI-oriented career features.
-
-[View Source Code](https://github.com/jenifer1104p/GenAI-Frontend)
-
-### 6. JDBC Project
 **Technologies:** Java, JDBC
 
-Java project demonstrating JDBC-based database connectivity.
+- Developed a Java application demonstrating database connectivity using JDBC.
+- Practiced database interaction and SQL operations through Java.
 
-[View Source Code](https://github.com/jenifer1104p/JDBC_Project)
+**GitHub:** [JDBC Project](https://github.com/jenifer1104p/JDBC_Project)
 
-### 7. NexAdmin – User Management System
+### 8. NexAdmin – User Management System
+
 **Technologies:** PHP, MongoDB, Bootstrap 5, JavaScript
 
-User management system developed using web technologies and MongoDB.
+- Developed a web-based user management system.
+- Worked with PHP and MongoDB for application and database functionality.
+- Used Bootstrap and JavaScript for the user interface.
 
-[View Source Code](https://github.com/jenifer1104p/NexAdmin)
+**GitHub:** [NexAdmin](https://github.com/jenifer1104p/NexAdmin)
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -103,6 +136,6 @@ Alpha College of Engineering, Chennai
 
 ## CAREER INTERESTS
 
-Software Developer | Java Developer | Java Full Stack Developer | Python Developer | AI Application Developer
+Software Developer | Java Developer | Java Full Stack Developer | Backend Developer | AI Application Developer
 
 **Preferred Job Locations:** Chennai | Kochi | Thiruvananthapuram
